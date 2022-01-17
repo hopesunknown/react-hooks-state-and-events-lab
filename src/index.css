@@ -1,7 +1,7 @@
 :root {
-  --magenta: rgb(210, 51, 210);
+  --magenta: rgb(240, 146, 240);
   --cyan: rgb(98, 230, 230);
-  --yellow: rgb(237, 237, 32);
+  --yellow: rgb(241, 241, 104);
   --font-color: rgb(33, 33, 33);
   --font-color-light: rgb(155, 155, 155);
   --background: rgb(255, 255, 255);
@@ -29,7 +29,7 @@ select {
 }
 
 select {
-  background: var(--cyan);
+  background: var(--magenta);
 }
 
 span[role="image"] {
